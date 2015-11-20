@@ -1,10 +1,10 @@
 [
-  {
-    “jan”: "4987271100058",
-    “medName”: “アイデイト錠100mg”,
-    “pac”: "100錠”,
-    “medPrice”: "685",
-    “maker”: "鶴原",
-    “isGeneric”: true
-  }
+    {
+        "jan": "4987271100058",
+        "medName": "アイデイト錠100mg",
+        "pac": "100錠",
+        "medPrice": "685",
+        "maker": "鶴原",
+        "isGeneric": true
+    }
 ]
